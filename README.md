@@ -59,4 +59,4 @@ This project demonstrates **frontend development skills using HTML, CSS (Tailwin
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/payooo.git
+   git clone https://github.com/MD-ELIUS/payoo-mobile-app.git
