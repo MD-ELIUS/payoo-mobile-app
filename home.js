@@ -280,7 +280,7 @@ document.getElementById('transactions-card').addEventListener('click', function(
        <div class="bg-white rounded-xl p-3 flex justify-between items-center mb-3">
       <div class="flex items-center ">
         <div class="p-3 rounded-full bg-[#f4f5f7]">
-        <img class="mx-auto" src="/assests/wallet1.png" alt="" />  
+        <img class="mx-auto" src="assests/wallet1.png" alt="" />  
         </div>
         
         <div class="ml-3">
