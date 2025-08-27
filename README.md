@@ -83,6 +83,7 @@ It demonstrates **frontend development skills using HTML, CSS (Tailwind & DaisyU
 **Dynamic Alerts:**  
 ![Alerts](assests/screenshot-alert.png)  
 ![Alerts](assests/screenshot-alert1.png) 
+
 *Success and error alerts below forms.*
 
 **Bonus Coupons:**  
