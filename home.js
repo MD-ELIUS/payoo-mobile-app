@@ -6,7 +6,7 @@ const mobileNumber = 12345678910 ;
 // Logout button
 document.getElementById('log-out').addEventListener('click', function(e){
   e.preventDefault(); 
-    window.location.href="/index.html"
+    window.location.href="index.html"
 })
 
 // Reusable Function to get input value
